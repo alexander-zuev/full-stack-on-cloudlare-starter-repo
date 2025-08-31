@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38f208be-7e1a-415c-9ff7-dab67e19b4dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/packages/data-ops/src/queries/links.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/user-application/src/routeTree.gen.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user-application/src/routeTree.gen.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/user-application/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user-application/vite.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/user-application/worker-configuration.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user-application/worker-configuration.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/user-application/worker/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user-application/worker/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/data-service/src/helpers/route-ops.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/data-service/src/helpers/route-ops.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/data-service/src/hono/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/data-service/src/hono/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/data-service/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/data-service/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/data-service/worker-configuration.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/data-service/worker-configuration.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/data-service/wrangler.jsonc" beforeDir="false" afterPath="$PROJECT_DIR$/apps/data-service/wrangler.jsonc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/user-application/worker/trpc/routers/links.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user-application/worker/trpc/routers/links.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/user-application/wrangler.jsonc" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user-application/wrangler.jsonc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-workspace.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-workspace.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/data-ops/src/queries/links.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/data-ops/src/queries/links.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/data-ops/src/zod/links.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/data-ops/src/zod/links.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +62,13 @@
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "D:/DevDrive/Projects/full-stack-on-cloudlare-starter-repo",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "pnpm",
-    "settings.editor.selected.configurable": "com.anthropic.code.plugin.settings",
+    "settings.editor.selected.configurable": "settings.nodejs",
     "to.speed.mode.migration.done": "true",
     "ts.external.directory.path": "D:\\DevDrive\\Projects\\full-stack-on-cloudlare-starter-repo\\node_modules\\typescript\\lib"
   }
@@ -96,7 +99,7 @@
       <updated>1756107261495</updated>
       <workItem from="1756107262766" duration="11588000" />
       <workItem from="1756122596312" duration="19000" />
-      <workItem from="1756630527456" duration="2089000" />
+      <workItem from="1756630527456" duration="17036000" />
     </task>
     <servers />
   </component>
