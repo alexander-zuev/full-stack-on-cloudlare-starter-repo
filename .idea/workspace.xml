@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38f208be-7e1a-415c-9ff7-dab67e19b4dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/packages/data-ops/src/queries/links.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user-application/src/routeTree.gen.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user-application/src/routeTree.gen.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user-application/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user-application/vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user-application/worker-configuration.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user-application/worker-configuration.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user-application/worker/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user-application/worker/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user-application/worker/trpc/routers/links.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user-application/worker/trpc/routers/links.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user-application/wrangler.jsonc" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user-application/wrangler.jsonc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-workspace.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-workspace.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alexander-zuev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alexander-zuev/full-stack-on-cloudlare-starter-repo.git&quot;,
+    &quot;accountId&quot;: &quot;a5278324-012f-4291-9ad4-85ed28acf8f3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="31lmvGOhU73gA7e9QM0BL6RzNKg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/DevDrive/Projects/full-stack-on-cloudlare-starter-repo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "settings.editor.selected.configurable": "com.anthropic.code.plugin.settings",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "D:\\DevDrive\\Projects\\full-stack-on-cloudlare-starter-repo\\node_modules\\typescript\\lib"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.130" />
+        <option value="bundled-python-sdk-1bde30d8e611-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.130" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38f208be-7e1a-415c-9ff7-dab67e19b4dd" name="Changes" comment="" />
+      <created>1756107261495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756107261495</updated>
+      <workItem from="1756107262766" duration="11588000" />
+      <workItem from="1756122596312" duration="19000" />
+      <workItem from="1756630527456" duration="2089000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
